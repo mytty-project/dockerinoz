@@ -1,5 +1,8 @@
 #!/usr/bin/ruby
 # encoding: utf-8
+# ###
+# PoC code by Richard Sammet
+# ###
 
 require "json/add/regexp"
 
