@@ -1,7 +1,7 @@
 ---
 title: "dockerinoz - build containers that won't haunt you"
 date: 2019-04-06T11:32:33Z
-draft: true
+draft: false
 tags: [ "dockerinoz", "docker", "dockerfile", "ruby", "tool"]
 ---
 
